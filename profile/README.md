@@ -9,3 +9,6 @@ Here on GitHub, there are a bunch of ways to get involved:
 ---
  
 <sub>🤫 Psst! You can join our GitHub organization by [drawing a animal](https://github.com/meanwhileatthelab/animals).</sub>
+
+<sub>🤫 Psst! We stole a bit from this README.md from [Hackclub](https://github.com/hackclub)</sub>
+
