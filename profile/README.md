@@ -1,4 +1,4 @@
-# :wave: Hey, welcome to MATL
+# :wave: Hey, welcome to MATL (Meanwhile at The Lab)
 
 ### 🦦 Contributing to MATL
 
